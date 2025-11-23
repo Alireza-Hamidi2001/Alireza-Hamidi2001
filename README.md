@@ -1,16 +1,28 @@
-## Hi there 👋
+🎓 I’m a Master’s student in Computer Science
+💻 I’m a web developer with experience in React, JavaScript, and PHP (backend)
 
-<!--
-**Alireza-Hamidi2001/Alireza-Hamidi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on
+Building modern, responsive web applications using React and clean architecture principles.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on
+Frontend projects, open-source React components, and full-stack web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with
+Improving my backend architecture skills and learning more about scalable systems.
+
+🌱 I’m currently learning
+Advanced JavaScript patterns, Next.js, and backend optimization techniques.
+
+🌐 Socials:
+Instagram LinkedIn
+
+💻 Tech Stack:
+C++ AssemblyScript HTML5 JavaScript PHP Vercel Bootstrap Next JS React Query React Router React React Hook Form Redux SASS Vite Vue.js Supabase MySQL Git GitLab GitHub Figma
+
+📊 GitHub Stats:
+
+
+
+
+
+
